@@ -1,4 +1,4 @@
-# Анализ ДТП / Road Traffic Accident Analysis
+# Анализ ДТП 
 
 ## Описание
 
